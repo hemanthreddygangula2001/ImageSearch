@@ -159,4 +159,4 @@ Name - Hemanth Reddy Gangula
 Email- hemanthreddygangula.2001@gmail.com
 
 
-Project Link: [https://github.com/yourusername/image-similarity-search](https://github.com/hemanthreddygangula2001/ImageSearch)
+Project Link: [Link](https://github.com/hemanthreddygangula2001/ImageSearch)
